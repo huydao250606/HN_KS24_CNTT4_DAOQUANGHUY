@@ -1,3 +1,0 @@
-C:/Users/Administrator/Desktop/HN_KS24_CNTT4_DaoQuangHuy/cmake-build-debug/CMakeFiles/HN_KS24_CNTT4_DaoQuangHuy.dir
-C:/Users/Administrator/Desktop/HN_KS24_CNTT4_DaoQuangHuy/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Desktop/HN_KS24_CNTT4_DaoQuangHuy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
